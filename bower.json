@@ -1,0 +1,23 @@
+{
+  "name": "2degrees",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor/js",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2x",
+    "jquery": "~1.11.1",
+    "modernizr": "~2.7.0",
+    "respond": "~1.4.2",
+    "selectivizr": "https://raw.githubusercontent.com/keithclark/selectivizr/master/selectivizr.js",
+    "html5-boilerplate": "~4.3.0",
+    "bourbon": "~4.0.1",
+    "neat": "~1.5.1"
+  }
+}
